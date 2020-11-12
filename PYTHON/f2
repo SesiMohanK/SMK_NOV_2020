@@ -1,0 +1,6 @@
+# Git Commands:-
+For set up
+git config --global user.name 'Abhishek Gupta'
+git config --global user.email 'abhi.gupat@gmail.com'
+git config --global core.autocrlf true(Win)/input(Mac)
+git config --global --list
